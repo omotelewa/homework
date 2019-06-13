@@ -27,7 +27,7 @@ public class ArrayFunUserArray {
 //                    System.out.println(arr[i]);
 //                }
 
-        // Hard solution
+        // alternate solution for my reference
         // Array generally is rigid. So we specify the amount of values it can carry or we have to initialize with some values directly.
         int[] arr= new int[5];// allocating memory for 5 in values in an array
         // now we have arr= {0,0,0,0,0}. this is because int has a default value of 0.
